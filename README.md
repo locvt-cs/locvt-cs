@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Loc!
 
-<!--
-**locvt-cs/locvt-cs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student at University of Information Technology (UIT), VNU-HCM  
+🔬 Interested in AI/ML, NLP and Research & Development
 
-Here are some ideas to get you started:
+📄 [View my Resume](https://drive.google.com/file/d/1ly5bwU41zmwBR2R4-dvlbuVR0NE2brfL/view?usp=sharing)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🔗 Connect with me
+
+📧 [Email](mailto:locvt.cs@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/locvt-cs/)  
+🧩 [LeetCode](https://leetcode.com/locvt_cs)
+
+
+## 🛠️ Technical Skills
+
+**Languages:** C++, Python, SQL  
+**AI/ML:** NumPy, Scikit-learn, PhoBERT  
+**Data:** MySQL, Elasticsearch  
+**Tools:** Git, Linux, Docker, FastAPI
