@@ -1,7 +1,9 @@
 # Hi, I'm Loc!
 
 🎓 Computer Science student at University of Information Technology (UIT), VNU-HCM  
-🔬 Interested in AI/ML, NLP and Research & Development
+🛠️ Building practical systems for real-world problems  
+🤝 Leading teams, communicating ideas, and challenging assumptions    
+🔬 Interested in both research and product development
 
 📄 [View my Resume](https://drive.google.com/file/d/1ly5bwU41zmwBR2R4-dvlbuVR0NE2brfL/view?usp=sharing)
 
